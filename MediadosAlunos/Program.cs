@@ -29,8 +29,10 @@ float MediaTotal = media.Soma(Nota1, Nota2);
 if(MediaTotal >= 6)
 {
     Console.WriteLine("Parabens, voce passou!");
+    Console.Write(MediaTotal);
 }
 else
 {
     Console.WriteLine("Tranque o curso, AGR!!!!!!");
+    Console.Write(MediaTotal);
 }
