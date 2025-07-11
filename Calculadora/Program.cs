@@ -37,6 +37,7 @@ while (continuar)
             break;
         default:
             Console.WriteLine("\nPor favor, Digite Corretamente!!!");
-            break;
+        break;
     }
+
 }
