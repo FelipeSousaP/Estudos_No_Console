@@ -25,19 +25,32 @@ while (continuar)
     {
         case 'A':
             int resultado = operações.Soma(N1, N2);
+            Console.WriteLine($"\nA operação foi {resultado}");
             break;
         case 'S':
             int resultado2 = operações.Subtração(N1, N2);
+            Console.WriteLine($"\nA operação foi {resultado2}");
             break;
         case 'D':
             int resultado3 = operações.Divisão(N1, N2);
+            Console.WriteLine($"\nA operação foi {resultado3}");
             break;
         case 'M': 
             int resultado4 = operações.Multiplicação(N1, N2);
+            Console.WriteLine($"\nA operação foi {resultado4}");
             break;
         default:
             Console.WriteLine("\nPor favor, Digite Corretamente!!!");
         break;
     }
 
+    Console.WriteLine("Deseja continuar?\nS = sim\nN = não");
+    char pergunta = Console.ReadKey().KeyChar;
+    pergunta = char.ToUpper(pergunta);
+
+    if(pergunta == 'S'){ continuar = true; }
+    else if(pergunta == 'N'){ continuar = false; }
+    else { Console.WriteLine("Da o cu"); Environment.Exit(0); }
+
+    Console.Clear();
 }
