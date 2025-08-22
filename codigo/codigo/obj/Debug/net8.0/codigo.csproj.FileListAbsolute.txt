@@ -1,0 +1,14 @@
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\bin\Debug\net8.0\codigo.exe
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\bin\Debug\net8.0\codigo.deps.json
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\bin\Debug\net8.0\codigo.runtimeconfig.json
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\bin\Debug\net8.0\codigo.dll
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\bin\Debug\net8.0\codigo.pdb
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.AssemblyInfoInputs.cache
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.AssemblyInfo.cs
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.csproj.CoreCompileInputs.cache
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.dll
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\refint\codigo.dll
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.pdb
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\codigo.genruntimeconfig.cache
+C:\Users\felipe.spinto5\source\repos\codigo\codigo\obj\Debug\net8.0\ref\codigo.dll
